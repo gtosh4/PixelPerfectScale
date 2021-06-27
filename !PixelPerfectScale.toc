@@ -5,7 +5,8 @@
 ## X-Credits: ElvUI
 ## X-License: GPL v2 or later.
 ## X-Category: Development Tools
-## SavedVariables: BugGrabberDB
+## X-Wago-ID: rkGrVeGy
+
 
 libs/embeds.xml
 main.lua
