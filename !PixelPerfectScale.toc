@@ -1,0 +1,12 @@
+## Interface: 90005
+## Title: Pixel Perfect UI Scale
+## Notes: Scale your UI to be pixel perfect
+## Author: gtosh4
+## X-Credits: ElvUI
+## X-License: GPL v2 or later.
+## X-Category: Development Tools
+## SavedVariables: BugGrabberDB
+
+libs/embeds.xml
+main.lua
+scale.lua
