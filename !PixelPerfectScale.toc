@@ -1,4 +1,4 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: Pixel Perfect UI Scale
 ## Notes: Scale your UI to be pixel perfect
 ## Author: gtosh4
