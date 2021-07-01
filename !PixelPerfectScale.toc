@@ -6,6 +6,7 @@
 ## X-License: GPL v2 or later.
 ## X-Category: Development Tools
 ## X-Wago-ID: rkGrVeGy
+## X-Curse-Project-ID: 499537
 
 
 libs/embeds.xml
